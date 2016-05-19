@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 9fade2dc4f441254fbf55df5898e9363
+timeCreated: 1436634159
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - hoverSprite: {fileID: 21300000, guid: 7942704522f973245802bce587c77bce, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

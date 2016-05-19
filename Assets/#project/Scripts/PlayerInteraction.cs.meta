@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f630924ec22e06744a8250512ef7c268
+timeCreated: 1436652991
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - GUIhoverCursor: {fileID: 21300000, guid: e4b7ccb07f7661b4698552f8f0c292d2, type: 3}
+  - GUIclickCursor: {fileID: 21300000, guid: 7942704522f973245802bce587c77bce, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
